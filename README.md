@@ -1,5 +1,13 @@
-# Untitled
+# Explain.AI
 This is the code for the project that we'll be preparing for Code Kshetra 2.0
+
+## CLI commands to run the Cloud Based IDE 
+### client side : 
+$ npm run dev
+
+### server side :
+$ npm run dev
+
 
 ## Expected Project Features :
 1. Auth
