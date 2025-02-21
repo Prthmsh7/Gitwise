@@ -1,4 +1,4 @@
-# Explain.AI
+# Gitwise
 This is the code for the project that we'll be preparing for Code Kshetra 2.0
 
 ## CLI commands to run the Cloud Based IDE 
