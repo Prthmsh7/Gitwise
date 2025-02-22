@@ -15,11 +15,11 @@ Gitwise is a **cloud-based collaborative platform** that empowers developers to 
 
 ---
 
-[![Gitwise][product-screenshot]](https://example.com)
+https://github.com/user-attachments/assets/8f7a28a3-7126-4dae-acf0-f65f573b37fd
 
 ---
 
-https://github.com/user-attachments/assets/8f7a28a3-7126-4dae-acf0-f65f573b37fd
+![gitwise](https://github.com/user-attachments/assets/73dcf85e-976b-461e-86c8-6c9dd1794678)
 
 ---
 
