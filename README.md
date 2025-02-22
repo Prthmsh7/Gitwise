@@ -31,9 +31,30 @@ Gitwise is a **cloud-based collaborative platform** that empowers developers to 
 ## 📦 Install Dependencies
 Run the following command to install the necessary packages for both client and server:
 ### Gitwise Dashboard
+* frontend
+  ```bash
+  cd frontend
+  npm i
+  npm run dev
+  ```
+* backend
+  ```bash
+  cd backend
+  npm i
+  npm start
+  ```
+### Cloud-IDE
 * client
   ```bash
+  cd cloud-ide
   cd client
+  npm i
+  npm run dev
+  ```
+* server
+  ```bash
+  cd cloud-ide
+  cd server
   npm i
   npm run dev
   ```
