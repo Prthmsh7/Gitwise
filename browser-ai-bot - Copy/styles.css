@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    width: 420px;
+    background: #0d0d0d; /* Dark background */
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+/* Neon Effect for Popup */
+.container {
+    padding: 20px;
+    border-radius: 12px;
+    background: #1e1e1e; /* Dark ChatGPT-style card */
+    box-shadow: 0px 0px 12px 3px #00ffcc; /* Neon glow effect */
+    border: 2px solid #00ffcc; /* Neon border */
+    transition: all 0.3s ease-in-out;
+}
+
+/* Neon Glow Animation */
+.container:hover {
+    box-shadow: 0px 0px 18px 6px #00ffcc; /* Stronger glow on hover */
+}
+
+/* Title */
+h2 {
+    font-size: 22px;
+    margin-bottom: 15px;
+    color: #10a37f; /* ChatGPT green */
+    font-weight: bold;
+}
+
+/* Input and Buttons */
+.input-group {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+    gap: 8px;
+}
+
+/* Buttons */
+button {
+    flex: 1;
+    padding: 12px;
+    border: none;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+    background: #10a37f; /* ChatGPT button color */
+    color: white;
+    box-shadow: 0px 0px 8px #10a37f; /* Subtle glow */
+}
+
+/* Hover Effect */
+button:hover {
+    background: #0e8f6d;
+    transform: scale(1.05);
+    box-shadow: 0px 0px 14px #10a37f; /* Stronger glow */
+}
+
+/* Text Inputs */
+textarea, input[type="text"] {
+    width: 100%;
+    padding: 12px;
+    font-size: 15px;
+    border: 2px solid #00ffcc; /* Neon input border */
+    border-radius: 10px;
+    resize: none;
+    background: #2a2a2a; /* Dark input background */
+    color: white;
+    font-weight: 500;
+    transition: 0.3s ease-in-out;
+}
+
+/* Neon Glow on Focus */
+textarea:focus, input[type="text"]:focus {
+    box-shadow: 0px 0px 10px #00ffcc; 
+    outline: none;
+}
+
+/* Answer Box */
+#answer {
+    margin-top: 10px;
+    border: 2px solid #10a37f; /* Highlighted neon border */
+    box-shadow: 0px 0px 10px #10a37f; /* Glowing effect */
+}
