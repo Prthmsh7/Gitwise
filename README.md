@@ -14,6 +14,8 @@ Gitwise is a **cloud-based collaborative platform** that empowers developers to 
 - **Real-time Collaboration (Upcoming)** – Multi-user coding environment.
 
 ---
+[![Gitwise][product-screenshot]](https://example.com)
+---
 
 ## 🛠️ Installation & Setup
 
@@ -81,3 +83,6 @@ npm run build
 ```shell
 npm start
 ```
+## 🎥 Introductory Presentation
+
+[![Watch the Introductory Presentation](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
